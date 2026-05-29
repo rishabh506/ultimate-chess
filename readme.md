@@ -29,4 +29,4 @@ A modern chess game built using HTML, CSS, and JavaScript.
 1. Clone repository
 
 ```bash
-git clone https://github.com/yourusername/ultimate-chess-arena.git
+git clone https://github.com/yourusername/ultimate-chess.git
